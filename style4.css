@@ -1,0 +1,228 @@
+.hh2{
+	width: 100%;
+	min-height: 341px;
+	background-image: url("img/head2.jpg");
+	float: left;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.bods{
+	width: 100%px;
+	min-height: 500px;
+	padding: 5px;
+	background-color: none;
+	float: left;
+	margin-top: 20px;
+}.bods2{
+	width: 747px;
+	min-height: 500px;
+	padding: 5px;
+	background-color: none;
+	float: left;
+	margin-top: 20px;
+}
+
+.balita{
+	width: 295px;
+	min-height:20px;
+	background-image:url("img/backing.png"); ;
+	float: right;	
+	margin-top: 64px;
+	padding: 5px;
+	margin-left: 10px;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+.art{
+	width: 520px;
+ 	min-height: 500px;
+	 background-color:none;
+	 float: left;
+	 margin-right:13px;
+}
+.art2{
+	width: 520px;
+ 	min-height: 500px;
+	 background-color:none;
+	 float: left;
+}
+.art p{
+	color: white;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.min{
+	width: 200px;
+	height: 184px;
+	float: left;
+	margin-right: 5px;
+
+}
+
+.word{
+	color: white;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: normal;
+
+}
+.word{
+	width: 250px;
+	height: 230px;
+	float: left;
+	margin-top: 0px;
+}
+.pot{
+	margin: 0 auto;
+	background-color: ;
+	width: 600px;
+	height: 120px;
+	padding:3px;
+}
+
+.potter{
+	margin-top: 20px;
+	background-color: ;
+	width: 100%;
+	height:100px;
+	float: left;
+}
+.handling{
+	margin-left: 40px;
+}
+.handling img{
+	width: 100%;
+}
+.fb{
+	background-color: ;
+	width: 50px;
+	height: 80px;
+	margin: 0;
+	float: left;
+	margin-left: 65px
+}
+.motto{
+	margin: 0 auto;
+	background-color:;
+	width: 600px;
+	height: 120px;
+	padding:3px;
+	
+}
+.motto2{
+	margin-top: -30px;
+	float: left;
+}
+.intro{
+	width:1100px; 
+	height: 100px;
+	background-color: none;
+	margin:0 auto;
+	margin-bottom: -30px;
+}
+.logs{
+	width: 300px;
+	height: 100px;
+	background-color: none;
+}/*log 2 at style 3*/
+.trav{
+	background-color: none;
+	width: 100%;
+	min-height: 150px;
+	float:left;
+	margin-bottom: 20px;
+}
+.extra{
+	width: 157px;
+	height: 100%;
+	background-color: none;
+	margin-right: 24px;
+	float: left;
+	min-height: 160px;
+/**/	
+}
+.extra a{
+	color: white;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: bold;
+	
+}
+.extra2{
+	width: 157px;
+	min-height: 160px;
+	background-color: none;
+	float: right;
+/**/	
+}
+.circle{
+	border-radius: 150px;
+	width: 156px;
+	height: 156px;
+	
+}
+.extra2 a{
+	color: white;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: bold;
+	
+}
+.special{
+	background-color: green;
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+.marginer{
+	float: left;
+	margin-top: -50px;
+}
+.frameS{
+	border: 1px solid #e7e7e7;
+	border-radius: 5px;
+	padding: 4px;
+	width: 100%;
+	height: 175px;
+	background-image: url("img/bgwhite.png");
+	float: left;
+	margin-top: -30px;
+}
+.really{
+	float: left;
+	width: 100%;
+	min-height: 150px;
+
+}
+.really p{
+	color: white;
+	font-family: arial;
+	font-size: 12pt;
+	font-weight: bold;	
+}
+.sans{
+    color: white;
+    font-family: arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+footer{
+	border-top: 1px solid #e7e7e7;
+}
+
+.bods p{
+	color: white;
+    font-family: arial;
+    font-size: 13pt;
+    font-weight: normal;
+    background-image:url("img/bods.png");
+}
+.bods2 p{
+	color: white;
+    font-family: arial;
+    font-size: 13pt;
+    font-weight: normal;
+    background-image:url("img/bods.png");
+}

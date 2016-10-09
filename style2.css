@@ -1,0 +1,151 @@
+.mini{
+	border: 2px solid white;
+	width: 185px;
+	height:195px;
+	float: left;
+	margin-left: 10px;
+	border-radius: 5px;
+
+}
+.mini{
+	-o-transition:.3s;
+  -ms-transition:.3s;
+  -moz-transition:.3s;
+  -webkit-transition:.3s;
+  transition:.3s;
+}
+.mini:hover{
+	background-image: url("img/gray.png");
+}
+.bamboo2{
+	background-color: blue;
+	width: 185px;
+	height:195px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+
+.bod{
+	background-color: red;
+	width: 400px;
+	height:400px;
+	float: left;
+
+}
+.long{
+	width: 100%;
+	height: 150px;
+	background-color: none;
+	float: left; 
+	font-size: 24px;
+	font-family: Arial;
+	margin-top: 10px;
+
+}
+#spec a:hover{
+	color: #2a2501;
+	border-radius: 5px;
+	width: 10px;
+	height: 5px;
+	background-color: red;
+	float: left;
+}
+#spec{
+	float: left;
+}
+.frame{
+	border: 1px solid #e7e7e7;
+	border-radius: 5px;
+	padding: 4px;
+	width: 100%;
+	min-height: 100px;
+	background-image: url("img/bgwhite.png");
+}
+.frame p{
+	    font-family:Arial;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin: 0;
+    color: black;
+}
+.frame2{
+	border: 1px solid #e7e7e7;
+	border-radius: 5px;
+	padding: 4px;
+	max-width: 350px;
+	min-height: 100px;
+	background-image: url("img/bgwhite.png");
+	float: right;
+	    margin-top: 40px;
+    margin-left: 5px;
+}
+.frame3{
+	border: 1px solid #e7e7e7;
+	border-radius: 5px;
+	padding: 4px;
+	max-width: 350px;
+	min-height: 100px;
+	background-image: url("img/bgwhite.png");
+	float: right;
+	margin-top: 0px;
+    margin-left: 5px;
+}
+.frame4{
+	border: 1px solid #e7e7e7;
+	border-radius: 5px;
+	padding: 4px;
+	max-width: 200px;
+	min-height: 100px;
+	background-image: url("img/bgwhite.png");
+	float: left;
+	margin-top: 0px;
+    margin-right: 5px;
+}
+#art_1, .open {
+    color: white;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: normal;
+}
+#art_1{
+	display: none;
+}
+.open{
+	cursor: pointer;
+	font-weight: bolder;
+}
+.open:hover{
+	text-decoration: underline;
+}
+._divider{
+	border-bottom: 1px solid white;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	float: left;
+}
+._divider p{
+	color: white;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: normal;margin-top: 2px
+}
+._divider mark{
+	cursor: pointer;
+	font-weight: bold; 
+	background-color: none;color: white;
+	font-family: arial;
+	font-size: 10pt;
+}
+#art_2, .open {
+    color: white;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: normal;
+}
+#art_2{
+	display: none;
+}
